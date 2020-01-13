@@ -63,8 +63,8 @@
 		width: 100%;
 	}
 
-	div p {
-		font-size: 1.0vw;
+	div p  {
+		font-size: 0.8em;
 	}
 
 	#ipsum {
@@ -162,7 +162,7 @@
 	}
 
 	div p {
-		font-size: 1.4vw;
+		font-size: 0.8em;
 	}
 
 	#ipsum {
@@ -260,7 +260,7 @@
 	}
 
 	div p {
-		font-size: 3.0vw;
+		font-size: 0.8em;
 	}
 
 	#ipsum {
